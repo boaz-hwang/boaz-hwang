@@ -10,7 +10,7 @@
 
 <p align="center">
   기능을 만들어 문제를 해결하는 <b>Engineer</b>, 콘텐츠로 문제를 해결하는 <b>Creator</b>.<br/>
-  두 역할을 함께 하며 시너지를 만드는 <b>Founder</b>가 되려 합니다.
+  둘다 하며 시너지를 만드는 <b>Founder</b>가 되려 합니다.
 </p>
 
 ---
