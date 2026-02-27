@@ -1,4 +1,4 @@
-<h1 align="center">PROBLEM SOLVER</h1>
+<h1 align="center">FOUNDER</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Engineer-2563EB?style=for-the-badge" alt="Engineer" />
