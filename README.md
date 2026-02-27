@@ -71,7 +71,7 @@ graph LR
 |---------|-------|
 | **LinkedIn** | 인사이트 & 경험 공유 |
 | **YouTube - Boaz** | 기술/철학 주제 영상 |
-| **YouTube - Bethany** | 일상/라이프 영상 |
+| **YouTube - Bethany** | 출판사 관련 영상 |
 | **P.E.C. Article** | 커뮤니티 아티클 |
 
 <br/>
