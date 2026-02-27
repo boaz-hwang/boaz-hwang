@@ -1,9 +1,11 @@
 <h1 align="center">FOUNDER</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Engineer-2563EB?style=for-the-badge" alt="Engineer" />
-  <img src="https://img.shields.io/badge/Creator-9333EA?style=for-the-badge" alt="Creator" />
-  <img src="https://img.shields.io/badge/Founder-DC2626?style=for-the-badge" alt="Founder" />
+  <img src="https://img.shields.io/badge/Engineer-1B4A97?style=for-the-badge" alt="Engineer" />
+  <img src="https://img.shields.io/badge/+-4a4a4a?style=for-the-badge" alt="+" />
+  <img src="https://img.shields.io/badge/Creator-F5B13D?style=for-the-badge" alt="Creator" />
+  <img src="https://img.shields.io/badge/=-4a4a4a?style=for-the-badge" alt="=" />
+  <img src="https://img.shields.io/badge/Founder-16A34A?style=for-the-badge" alt="Founder" />
 </p>
 
 <p align="center">
@@ -32,14 +34,14 @@ graph LR
     G -- "Analytics" --> F
     H -- "Engagement" --> F
 
-    style A fill:#1e3a5f,stroke:#60a5fa,color:#fff
-    style B fill:#1e3a5f,stroke:#60a5fa,color:#fff
-    style C fill:#1e3a5f,stroke:#60a5fa,color:#fff
-    style D fill:#1e3a5f,stroke:#60a5fa,color:#fff
-    style E fill:#1e3a5f,stroke:#60a5fa,color:#fff
-    style F fill:#1e3a5f,stroke:#60a5fa,color:#fff
-    style G fill:#1e40af,stroke:#3b82f6,color:#fff
-    style H fill:#6b21a8,stroke:#a855f7,color:#fff
+    style A fill:#163A6F,stroke:#1B4A97,color:#fff
+    style B fill:#163A6F,stroke:#1B4A97,color:#fff
+    style C fill:#163A6F,stroke:#1B4A97,color:#fff
+    style D fill:#163A6F,stroke:#1B4A97,color:#fff
+    style E fill:#163A6F,stroke:#1B4A97,color:#fff
+    style F fill:#163A6F,stroke:#1B4A97,color:#fff
+    style G fill:#1B4A97,stroke:#7FC7FF,color:#fff
+    style H fill:#F5B13D,stroke:#F5B13D,color:#000
 ```
 
 ---
@@ -89,9 +91,9 @@ graph LR
 Engineer와 Creator가 자연스럽게 합쳐지는 교집합.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Community-게시판_기반_지식_공유-2563EB?style=flat-square" alt="Community" />
-  <img src="https://img.shields.io/badge/Course-On--demand_Video_+_LMS-9333EA?style=flat-square" alt="Course" />
-  <img src="https://img.shields.io/badge/Camp-Dashboard_+_부트캠프-DC2626?style=flat-square" alt="Camp" />
+  <img src="https://img.shields.io/badge/Community-게시판_기반_지식_공유-1B4A97?style=flat-square" alt="Community" />
+  <img src="https://img.shields.io/badge/Course-On--demand_Video_+_LMS-F5B13D?style=flat-square" alt="Course" />
+  <img src="https://img.shields.io/badge/Camp-Dashboard_+_부트캠프-16A34A?style=flat-square" alt="Camp" />
 </p>
 
 기능을 만드는 과정에서 생긴 경험과 노하우가 교육 콘텐츠가 되고,
@@ -113,10 +115,10 @@ graph LR
     MKT --> IMP["Improve<br/>데이터 기반 개선"]
     IMP --> ENG
 
-    style ENG fill:#1e40af,stroke:#3b82f6,color:#fff
-    style CON fill:#6b21a8,stroke:#a855f7,color:#fff
-    style MKT fill:#b91c1c,stroke:#ef4444,color:#fff
-    style IMP fill:#15803d,stroke:#22c55e,color:#fff
+    style ENG fill:#1B4A97,stroke:#7FC7FF,color:#fff
+    style CON fill:#F5B13D,stroke:#F5B13D,color:#000
+    style MKT fill:#EF4444,stroke:#EF4444,color:#fff
+    style IMP fill:#16A34A,stroke:#16A34A,color:#fff
 ```
 
 ### Agent Evolution Roadmap
@@ -156,7 +158,7 @@ graph LR
 
 <p align="center">
   <a href="https://www.linkedin.com/in/boaz-hwang"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://productengineer.info"><img src="https://img.shields.io/badge/P.E.C.-Product_Engineer_Community-2563EB?style=for-the-badge" alt="P.E.C." /></a>
+  <a href="https://productengineer.info"><img src="https://img.shields.io/badge/P.E.C.-Product_Engineer_Community-1B4A97?style=for-the-badge" alt="P.E.C." /></a>
 </p>
 
 <p align="center">
